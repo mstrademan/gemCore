@@ -1,4 +1,4 @@
-# note-blog
+# TEST-PROJECT
 
 > My first-class Nuxt.js project
 
